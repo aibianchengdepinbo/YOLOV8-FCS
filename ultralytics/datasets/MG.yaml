@@ -1,0 +1,5 @@
+train: D:/MG/MG_train.txt
+val: D:/MG/MG_trainval.txt
+
+nc: 4
+names: ['fushi', 'guahen', 'huahen', 'yahen']
